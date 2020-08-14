@@ -1,4 +1,4 @@
-package com.faridnia.core
+package com.faridnia.core.domain
 
 
 import com.google.gson.annotations.SerializedName

@@ -1,6 +1,7 @@
-package com.faridnia.core
+package com.faridnia.core.domain
 
 
+import com.faridnia.core.domain.NewsItem
 import com.google.gson.annotations.SerializedName
 
 data class News(
